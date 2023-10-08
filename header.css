@@ -1,0 +1,55 @@
+#logo {
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+  width: 100%;
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+  text-align: center;
+}
+
+.ulContainer {
+  display: flex;
+  list-style-type: none;
+  gap: 1.7rem;
+  padding: 0.5rem;
+}
+
+.navigering {
+  text-decoration: none;
+  color: black;
+}
+
+.navigering:hover {
+  text-decoration: underline;
+}
+
+.navCont {
+  display: flex;
+  font-size: 1.2rem;
+  box-shadow: 5px 5px 5px grey;
+  background: #F5F5F5;
+  justify-content: center;
+  gap: 2rem;
+  height: 2.5rem;
+}
+
+#sub {
+  margin-top: 0.3rem;
+  padding: 0.2rem 0.5rem 0.2rem 0.5rem;
+  height: 1.8rem;
+  color: white;
+  border: none;
+  background: black;
+  border-radius: 0.5rem;
+  border: 1px solid black;
+}
+
+#sub:hover {
+  background: white;
+  color: black;
+  cursor: pointer;
+}
+
+#sub:active {
+  opacity: 0.5;
+}

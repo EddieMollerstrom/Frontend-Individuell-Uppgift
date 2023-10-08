@@ -1,0 +1,37 @@
+.footer {
+  margin-top: auto;
+  height: 6rem;
+  background: #F5F5F5;
+  color: gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.8rem;
+}
+
+#insta {
+  height: 2.3rem;
+  margin: 0.3rem 0.3rem 0 0.3rem;
+}
+
+#insta:hover {
+  height: 2.4rem;
+}
+
+#twitter {
+  height: 3.3rem;
+  margin: 0.3rem 0.3rem 0 0.3rem;
+}
+
+#twitter:hover {
+  height: 3.4rem;
+}
+
+#facebook {
+  height: 2.4rem;
+  margin: 0.3rem 0.3rem 0 0.3rem;
+}
+
+#facebook:hover {
+  height: 2.5rem;
+}
